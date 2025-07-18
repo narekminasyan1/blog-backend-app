@@ -7,7 +7,7 @@ This is a simple blog application built with Express.js. It provides basic CRUD 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-express-blog-crud.git
+git clone https://github.com/narekminasyan1/blog-backend-app
 
 ### 2 Install Dependencies & Start Development Server
 ```bash
